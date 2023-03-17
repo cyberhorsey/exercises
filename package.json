@@ -1,11 +1,12 @@
 {
   "dependencies": {
+    "dotenv": "^16.0.3",
+    "ethers": "^6.1.0",
     "prompt-promise": "^1.0.3"
   },
   "name": "day8exercises",
   "version": "1.0.0",
   "main": "exercise1.js",
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
